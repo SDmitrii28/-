@@ -1,0 +1,10 @@
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.Form1.resources
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\Dmitry\Desktop\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\Dmitry\Desktop\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\Dmitry\Desktop\Task7\Task7\obj\Debug\Task7.pdb

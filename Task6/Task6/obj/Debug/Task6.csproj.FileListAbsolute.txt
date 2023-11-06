@@ -1,0 +1,10 @@
+C:\Users\Dmitry\Desktop\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\Dmitry\Desktop\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\Dmitry\Desktop\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.Form1.resources
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\Dmitry\Desktop\Task6\Task6\obj\Debug\Task6.pdb
